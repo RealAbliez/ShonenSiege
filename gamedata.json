@@ -1,0 +1,88 @@
+{
+    "Story": {
+        "Village": {
+            "1": {
+                "ModeName": "Village Act 1",
+                "MapName": "VillageMap",
+                "Rewards": {
+                    "Coins": 200,
+                    "Jems": 15,
+                    "Xp": 50,
+                    "Quests": ["First Map"]
+                },
+                "Modifiers": ["DoubleCash"],
+                "Requirements": {
+                    "Level": 0
+                },
+                "StartingCash": 500,
+                "Difficulty": 1,
+                "Waves": "Village-A1"
+            },
+            "2": {
+                "ModeName": "Village Act 2",
+                "MapName": "VillageMap",
+                "Rewards": {
+                    "Coins": 250,
+                    "Jems": 15,
+                    "Xp": 55,
+                    "Quests": []
+                },
+                "Modifiers": ["NoStun"],
+                "StartingCash": 500,
+                "Difficulty": 1,
+                "Waves": "Village-A2"
+            },
+            "3": {
+                "ModeName": "Village Final Act",
+                "MapName": "VillageMap",
+                "Rewards": {
+                    "Coins": 400,
+                    "Jems": 30,
+                    "Xp": 100,
+                    "Quests": ["Completed Village"]
+                },
+                "StartingCash": 500,
+                "Difficulty": 2,
+                "Waves": "Village-A3"
+            }
+        }
+    },
+    "Normal": {
+        "Village": {
+            "ModeName": "Village Act 1",
+            "MapName": "VillageMap",
+            "Rewards": {
+                "Coins": 200,
+                "Jems": 15,
+                "Xp": 50,
+                "Quests": ["First Map"]
+            },
+            "Modifiers": ["DoubleCash"],
+            "Requirements": {
+                "Level": 0
+            },
+            "StartingCash": 500,
+            "Difficulty": 1,
+            "Waves": "Village-A1"
+        }
+    },
+    "Bosses": {
+        "testBoss": {}
+    },
+    "DailyChallange": {
+        "27-10-2024": {
+            "ModeName": "Test Daily Challange",
+            "MapName": "VillageMap",
+            "Rewards": {
+                "Coins": 200,
+                "Jems": 15,
+                "Xp": 50,
+                "Quests": ["First Map"]
+            },
+            "Modifiers": ["DoubleCash"],
+            "StartingCash": 500,
+            "Difficulty": 1,
+            "Waves": "Village-A1"
+        }
+    }
+}
