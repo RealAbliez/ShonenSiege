@@ -70,6 +70,19 @@
         "testBoss": {}
     },
     "DailyChallange": {
+        "00-00-0000": {
+            "ModeName": "Backup daily",
+            "MapName": "VillageMap",
+            "Rewards": {
+                "Coins": 200,
+                "Jems": 15,
+                "Xp": 50,
+                "Quests": ["First Map"]
+            },
+            "StartingCash": 500,
+            "Difficulty": 1,
+            "Waves": "Village-A1"
+        },
         "13-11-2024": {
             "ModeName": "Test Daily Challange",
             "MapName": "VillageMap",
