@@ -64,6 +64,23 @@
             "StartingCash": 250,
             "Difficulty": 1,
             "Waves": "Village-A1"
+        },
+        "TestGame": {
+            "ModeName": "Village Act 1",
+            "MapName": "VillageMap",
+            "Rewards": {
+                "Coins": 69,
+                "Jems": 69,
+                "Xp": 69,
+                "Quests": ["Test Quest"]
+            },
+            "Modifiers": ["DoubleCash"],
+            "Requirements": {
+                "Level": 0
+            },
+            "StartingCash": 250,
+            "Difficulty": 1,
+            "Waves": "TestWaves"
         }
     },
     "Bosses": {
