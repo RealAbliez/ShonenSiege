@@ -64,5 +64,10 @@
     [["Regular", 50, 0.3], ["Tank", 10, 2.8]],
     [["Regular", 55, 0.3], ["Swift", 25, 0.9]],
     [["Boss", "BanditBoss"]]
+  ],
+  "TestWaves": [
+    [["Regular", 10, 1.3]],
+    [["Regular", 12, 1.2], ["Swift", 5, 2]],
+    [["Boss", "BanditBoss"]]
   ]
 }
