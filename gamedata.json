@@ -69,9 +69,9 @@
             "ModeName": "Village Act 1",
             "MapName": "VillageMap",
             "Rewards": {
-                "Coins": 69,
-                "Jems": 69,
-                "Xp": 69,
+                "Coins": 50,
+                "Jems": 50,
+                "Xp": 50,
                 "Quests": ["Test Quest"]
             },
             "Modifiers": ["DoubleCash"],
